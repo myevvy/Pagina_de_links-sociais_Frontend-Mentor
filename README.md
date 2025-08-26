@@ -1,2 +1,2 @@
-# P-gina-de-links-sociais---Frontend-Mentor
+# Página de links sociais | Front-End Mentor
 Desafio do site Frontend Mentor
